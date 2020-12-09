@@ -1,0 +1,22 @@
+{
+  "name": "bower-example",
+  "version": "0.0.0",
+  "authors": [
+    "author"
+  ],
+  "description": "Project with using bower.",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "git://github.com/twbs/bootstrap.git#^v4.2.1",
+    "slick-carousel": "^1.6.0"
+  }
+}
